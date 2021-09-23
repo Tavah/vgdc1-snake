@@ -1,0 +1,11 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "first game",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tav#7021",
+  "license": "ISC"
+}
